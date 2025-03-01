@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Veerusha!
+# 👋 Hi, I’m Veeranna Kuruba!
 
 ## 👀 About Me  
 I’m passionate about **technology, coding, and innovation**. I love solving problems and building creative solutions using **Python, JavaScript, and Full-Stack Development**.
